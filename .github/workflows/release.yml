@@ -35,7 +35,6 @@ jobs:
         with:
           persist-credentials: false
 
-
       - name: Generate d2 diagram
         shell: bash
         run: |
